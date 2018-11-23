@@ -43,10 +43,11 @@
     background-color: #19836f;
     position: absolute;
     top: 26px;
-    left: 38px;
+    left: 1038px;
     border: #ffffff solid 8px;
     border-radius: 25px;
     border-bottom: none;
+    cursor:default;
 }
 #myQuiz .question h1{
     font-weight: 100;
@@ -68,6 +69,12 @@
     margin-top: 0;
 }
 
+/* Target */
+#myQuiz .question .answer{
+    border: #ffffff dashed 2px;
+}
+
+
 #myQuiz .question .answer {
     margin-left: 15%;
     display: inline-block;
@@ -81,6 +88,81 @@
     text-align: center;
     width: 200px;
     padding: 10px;
-
+    cursor: pointer;
 }
 
+/* Results */
+
+#myQuiz .results{
+    height: 292px;
+    width: 791px;
+    background-color: #19836f;
+    position: absolute;
+    top: 26px;
+    left: 38px;
+    border: #ffffff solid 8px;
+    border-radius: 25px;
+    border-bottom: none;
+    cursor:default;
+}
+
+#myQuiz .results .destination{
+    font-weight: 100;
+    font-size: 6em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px;
+    
+}
+#myQuiz .results h2{
+    font-weight: 100;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+#myQuiz .results .btn{
+    width: 170px;
+    height: 50px;
+    background-color: #CC0202;
+    text-align: center;
+    font: 300;
+    font-size: 3em;
+    border: #000000 solid 2px;
+    padding: 5px;
+    position: absolute;
+    top: 220px;
+    left: 590px;
+}
+#myQuiz .results .share a.btn{
+    position: relative;
+    left: 250px;
+    top: 70px;
+    margin: 20px;
+    text-decoration-line: none;
+    content: none;
+    background-repeat: no-repeat;
+    background-position: 10px 5px;
+    background-size: 25px 25px;
+    padding-left: 45px;
+    font-size: 1.5em;
+    color: #ffffff;
+    background-color: #19836f;
+    border: solid #ffffff;
+    border-radius: 15px;
+
+    
+}
+#myQuiz .results .share a.btn.twitter{
+    background-image: url(../images/icon_twitter.svg);
+    background-color: #0084b4;
+
+
+}
+#myQuiz .results .share a.btn.fbook{
+    background-image: url(../images/icon_email.svg);
+    background-color: #3b5998;
+
+}
