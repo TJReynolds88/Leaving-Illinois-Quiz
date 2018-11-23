@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
+
+#myQuiz{
+    width: 950px;
+    height: 550px;
+    position: relative;
+    font-family: 'Pathway Gothic One', sans-serif;
+    overflow: hidden;
+    background-repeat: none;
+    color: #ffffff;
+    background: #ffffff url(../images/nowleaving.jpg) no-repeat 0px 0px;
+
+}
+
+/* Intro */
+
+#myQuiz .intro #btn{
+    background-color: #FED217;
+    width:450px;
+    height: 50px;
+    border: none;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    cursor: pointer;
+    top: 250px;
+    left: 1000px;
+    border-radius:0 0 15px 15px;
+    transition-duration: 0.5s;
+
+}
+#myQuiz .intro #btn:hover{
+    background-color: #FFFF5F;
+}
+
+
+/* Questions */
+
+#myQuiz .question{
+    height: 292px;
+    width: 791px;
+    background-color: #19836f;
+    position: absolute;
+    top: 26px;
+    left: 38px;
+    border: #ffffff solid 8px;
+    border-radius: 25px;
+    border-bottom: none;
+}
+#myQuiz .question h1{
+    font-weight: 100;
+    font-size: 5em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+#myQuiz .question p{
+    margin-left: 30%;
+    font-size: 1.1em;
+}
+
+#myQuiz .question .txt{
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+#myQuiz .question .answer {
+    margin-left: 15%;
+    display: inline-block;
+    margin: 0, 15px, 15px, 0;
+    position: relative;
+    top: -15px;
+    border: #ff6700 solid 2px;
+    background-color: #ff6700;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+
+}
+
