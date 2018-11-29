@@ -1,0 +1,114 @@
+[
+
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "The best type of weather to live in is _______",
+        "answer"  : [
+            {"id" : 0, "text" :"Hot & Humid"},
+            {"id" : 1, "text" :"Hot & Dry"},
+            {"id" : 2, "text" :"Mild & Humid"},
+            {"id" : 3, "text" :"Cold"}
+        ],
+        "correct" : 1
+        
+    }
+    
+]

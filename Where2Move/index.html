@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html ng-app="myQuiz">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,8 +10,8 @@
 
 <body>
 
-    <div id="myQuiz">
-        <div class="progress"></div>
+    <div id="myQuiz" ng-controller="QuizController">
+        <div class="progress">{{totalQuestions}}</div>
         <div class="intro">
             <button id="btn">Where to Quiz</button>
         </div>
@@ -39,7 +39,8 @@
     </div>
 
 
-
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="js/quiz.js"></script>
 </body>
 
 </html>
