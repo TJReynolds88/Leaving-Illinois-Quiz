@@ -1,7 +1,7 @@
 [
 
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "The best type of weather to live in is _______.",
         "answer"  : [
             {"id" : 0, "text" :"Hot & Humid"},
             {"id" : 1, "text" :"Hot & Dry"},
@@ -12,103 +12,181 @@
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "You like to live by _______.",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :" The Mountain"},
+            {"id" : 1, "text" :"A Big City"},
+            {"id" : 2, "text" :"The Ocean"},
+            {"id" : 3, "text" :"Cornfields and Wide Open Spaces"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "In your spare time you like to ________ .",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :" Vist a Museum"},
+            {"id" : 1, "text" :"Go to a Sporting Event"},
+            {"id" : 2, "text" :"Go Hiking"},
+            {"id" : 3, "text" :"Do Nothing"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "What type of food do you enjoy the most",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Fast Food"},
+            {"id" : 1, "text" :"Local Farmers Market"},
+            {"id" : 2, "text" :"Variety of Restuarnts"},
+            {"id" : 3, "text" :"Anything that isn't moldy"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "What political party due you lean towards",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Democratic"},
+            {"id" : 1, "text" :"Republican"},
+            {"id" : 2, "text" :"Independent"},
+            {"id" : 3, "text" :"I don't vote"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "Your Favorite food is _________.",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Pizza"},
+            {"id" : 1, "text" :"Tacos"},
+            {"id" : 2, "text" :"BBQ"},
+            {"id" : 3, "text" :"Fish and Seafood "}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "When it comes to population   ______.",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Big Cities is where its at"},
+            {"id" : 1, "text" :"Good fences make good neighbors"},
+            {"id" : 2, "text" :"Not to big, but not to small"},
+            {"id" : 3, "text" :"I don't like people"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "You go to a resturant what are you drinking",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Water"},
+            {"id" : 1, "text" :"Beer"},
+            {"id" : 2, "text" :"Margartia"},
+            {"id" : 3, "text" :"Wine"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "Your least affraid of _______.",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Bears"},
+            {"id" : 1, "text" :"Snakes"},
+            {"id" : 2, "text" :"Alligators"},
+            {"id" : 3, "text" :"Wolfs"}
         ],
         "correct" : 1
         
     },
     {
-        "question": "The best type of weather to live in is _______",
+        "question": "People you like to arround are ________.",
         "answer"  : [
-            {"id" : 0, "text" :"Hot & Humid"},
-            {"id" : 1, "text" :"Hot & Dry"},
-            {"id" : 2, "text" :"Mild & Humid"},
-            {"id" : 3, "text" :"Cold"}
+            {"id" : 0, "text" :"Creative"},
+            {"id" : 1, "text" :"Outgoing"},
+            {"id" : 2, "text" :"Intresting"},
+            {"id" : 3, "text" :"Strange"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "Favorite summer activity is _________.",
+        "answer"  : [
+            {"id" : 0, "text" :"Going to Festivals"},
+            {"id" : 1, "text" :"Fishing"},
+            {"id" : 2, "text" :"Relaxing on A Beach"},
+            {"id" : 3, "text" :"Camping"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "Your least favorite disater is _________.",
+        "answer"  : [
+            {"id" : 0, "text" :"Tornados"},
+            {"id" : 1, "text" :"Earthquakes"},
+            {"id" : 2, "text" :"Flooding"},
+            {"id" : 3, "text" :"Wild Fires"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "______ is how you get to work",
+        "answer"  : [
+            {"id" : 0, "text" :"Subway"},
+            {"id" : 1, "text" :"My car"},
+            {"id" : 2, "text" :"Walk"},
+            {"id" : 3, "text" :"Bicycle"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "What shoes are you wearing",
+        "answer"  : [
+            {"id" : 0, "text" :"Sandals"},
+            {"id" : 1, "text" :"Boots"},
+            {"id" : 2, "text" :"Tennis shoes"},
+            {"id" : 3, "text" :"Heels"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "What kind of winters do you like best",
+        "answer"  : [
+            {"id" : 0, "text" :"Lots of Snow"},
+            {"id" : 1, "text" :"I want sun the whole time"},
+            {"id" : 2, "text" :"Occasional Snow"},
+            {"id" : 3, "text" :"Snow that better be gone by the next day"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": "Tourist places to take your friends when they stop by __________. ",
+        "answer"  : [
+            {"id" : 0, "text" :"Famous landmarks"},
+            {"id" : 1, "text" :"National Parks"},
+            {"id" : 2, "text" :"Clubs + Bars"},
+            {"id" : 3, "text" :"Trip into the wilderness"}
+        ],
+        "correct" : 1
+        
+    },
+    {
+        "question": " Select A Sport: ",
+        "answer"  : [
+            {"id" : 0, "text" :"Baseball"},
+            {"id" : 1, "text" :"Football"},
+            {"id" : 2, "text" :"Basketball"},
+            {"id" : 3, "text" :"Soccer"}
         ],
         "correct" : 1
         
     }
+    
     
 ]
